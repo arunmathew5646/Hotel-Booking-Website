@@ -6,9 +6,16 @@
     height: 70px;
     margin-top: 20%;
     margin-left: 45%;
+    animation: spin 2s linear infinite;
 }
 a{
     text-decoration: none;
     font-family: 'Ubuntu', sans-serif ;
     color: black;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
 }
