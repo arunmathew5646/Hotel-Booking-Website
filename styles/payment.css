@@ -30,3 +30,8 @@ header, footer{
 #details{
     margin: 2%;
 }
+a{
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif ;
+    color: black;
+}

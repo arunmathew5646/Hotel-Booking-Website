@@ -25,3 +25,8 @@ header, footer{
 form{
     margin-bottom: 1%;
 }
+a{
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif ;
+    color: black;
+}

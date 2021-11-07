@@ -19,4 +19,14 @@ header, footer{
 #img1, #img2, #img3{
     background-color: rgb(132,136,139);
     width: 40%;
+    display: inline-block;
+    margin:10px;
+}
+#map{
+    display: none;
+}
+a{
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif ;
+    color: black;
 }
