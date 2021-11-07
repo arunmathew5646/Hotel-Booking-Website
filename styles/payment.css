@@ -6,3 +6,27 @@
     height: 500px;
     width: 500px;
 }
+body{
+    margin: 0px;
+    background-color: #e0e0e0;
+}
+header, footer{
+    background-color: rosybrown;
+}
+#img{
+    background-color: rgb(132,136,139);
+    width: 50%;
+    height: 20%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 28%;
+    margin-right: 50%;
+}
+#tarrif{
+    margin: 2%;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#details{
+    margin: 2%;
+}
