@@ -55,6 +55,10 @@ nav{
     border-radius: 25%;
     font-family: 'Ubuntu', sans-serif;
     text-decoration: none;
+    display: inline-block;
+    margin:10px;
+    border-radius: 10px;
+    box-shadow:  grey;
 }
 a{
     text-decoration: none;

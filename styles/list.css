@@ -12,6 +12,7 @@ body{
 }
 header, footer{
     background-color: rosybrown;
+    display: flex;
 }
 #hotelphotos{
     margin: 2%;
@@ -19,8 +20,11 @@ header, footer{
 #img1, #img2, #img3{
     background-color: rgb(132,136,139);
     width: 40%;
-    display: inline-block;
+    display: flex;
     margin:10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px grey;
+
 }
 #map{
     display: none;
