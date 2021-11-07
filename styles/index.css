@@ -1,0 +1,15 @@
+#logo{
+    height: 60px;
+    width: 60px;
+}
+#cityImages{
+    height: 150px;
+    width: 150px;
+}
+#socialmedia{
+    height: 20px;
+    width: 22px;
+}
+body{
+    position: relative;
+}
